@@ -14,7 +14,7 @@ This site was built to showcase my background, skills, and experiences. You can 
 - 🎓 Bachelor of Science in Computer Science – Cavite State University  
 - 🧰 Experience in technical support, freelance computer and smartphone repair
 - 🖥️ Skilled in troubleshooting, networking, and basic web technologies  
-- 📄 [Download My Curriculum Vitae](https://github.com/jomerbiason/my-curriculum-vitae/raw/main/Jomer-Antoniego-Biason_Curriculum-Vitae.pdf)
+- 📄 [Download My Curriculum Vitae](https://github.com/jomerbiason/my-curriculum-vitae/raw/main/Jomer-Antoniego-Biason-Curriculum-Vitae.pdf)
 
 
 ---
